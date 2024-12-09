@@ -1,5 +1,5 @@
 <div>
-  Hi. i'm <b><h1>MD AMINUL ISLAM HASIB</h1></b><p align="center">-@aitchwas</p>p>
+  Hi. i'm <b><h1>MD AMINUL ISLAM HASIB</h1></b><p align="center">-@aitchwas</p>
   <br>interest in problem solving.
   <br>learning [C/C++] [DSA] [OOP]
   <br>Feel free to reach me anytime.
