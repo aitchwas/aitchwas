@@ -7,3 +7,5 @@
   <br><h5>Pronouns: Whats that brother?</h5>
   <Looking for something cool>
 </div>
+![Background](https://raw.githubusercontent.com/aitchwas/-image/main/cover.png)
+
